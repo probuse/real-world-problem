@@ -14,7 +14,7 @@ This project describes the steps that one goes through to become an Andelan
     All th above two files have to be in the same folder with it for it to run
     
 ## Authors
-    [probuse](https://github.com/probuse/)
+    probuse
     
 ## Inspiration
     The Andela journey so far.
